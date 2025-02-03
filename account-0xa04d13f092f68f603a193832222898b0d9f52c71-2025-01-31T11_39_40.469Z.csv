@@ -1,0 +1,6 @@
+﻿"Object","Chain Id","Account Address","Address","Name","Symbol","Decimals","Icon Url","Raw Balance","Balance","Currency","Price","Market Value"
+"token","1","0xa04d13f092f68f603a193832222898b0d9f52c71","0x3073f7aaa4db83f95e9fff17424f71d4751a3073","Movement","MOVE","8","","","24951631.0014162","usd","0.752872","18785384.34"
+"token","1","0xa04d13f092f68f603a193832222898b0d9f52c71","0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2","Wrapped Ether","WETH","18","","","91.64747261946674","usd","3263.44","299086.03"
+"token","8453","0xa04d13f092f68f603a193832222898b0d9f52c71","0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf","Coinbase Wrapped BTC","cbBTC","8","","","0.00000881","usd","104233","0.92"
+"token","1","0xa04d13f092f68f603a193832222898b0d9f52c71","0x0000000000000000000000000000000000000000","Ethereum","ETH","18","","","0","usd","3266.26","0"
+"token","43114","0xa04d13f092f68f603a193832222898b0d9f52c71","0x0000000000000000000000000000000000000000","Avalanche","AVAX","18","https://token.api.cx.metamask.io/assets/nativeCurrencyLogos/avalanche.svg","968793040000000000","0.96879304","usd","34.46","33.3846081584"
