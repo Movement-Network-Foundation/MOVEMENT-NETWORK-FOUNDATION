@@ -1,0 +1,1 @@
+{"version":"3.0","data":{"settings":{"currency":"usd","tokenList":"TRUSTED","hiddenTokens":{},"hideSuspiciousTransactions":true,"shortName":{"copy":true,"qr":true},"theme":{},"env":{"rpc":{},"tenderly":{"url":"","accessToken":""}},"signing":{"onChainSigning":false,"blindSigning":true},"transactionExecution":true}}}
